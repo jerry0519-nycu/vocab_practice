@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vocabulary Practice</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: linear-gradient(135deg, #e8f0ff, #ffffff);
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: #333;
+      overflow: hidden;
+      position: relative;
+    }
+
+    /* 背景泡泡 */
+    .bubble {
+      position: absolute;
+      bottom: -50px;
+      background: rgba(173, 216, 230, 0.4);
+      border-radius: 50%;
+      animation: rise 20s infinite ease-in;
+    }
+
+    @keyframes rise {
+      0% { transform: translateY(0) scale(1); opacity: 1; }
+      100% { transform: translateY(-120vh) scale(1.5); opacity: 0; }
+    }
+
+    /* 標題 */
+    h1 {
+      font-size: 2.8em;
+      margin-bottom: 40px;
+      text-shadow: 0 0 10px rgba(100, 149, 237, 0.3);
+      animation: fadeIn 1.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* 導覽連結卡片 */
+    .level-links {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+      justify-content: center;
+      animation: slideUp 1.5s ease-out;
+    }
+
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .level-card {
+      background: white;
+      color: #4a69bd;
+      text-decoration: none;
+      padding: 25px 45px;
+      border-radius: 20px;
+      font-size: 1.2em;
+      font-weight: 600;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      transition: 0.3s;
+      text-align: center;
+      width: 180px;
+    }
+
+    .level-card small {
+      display: block;
+      color: #777;
+      font-size: 0.85em;
+      margin-top: 8px;
+    }
+
+    .level-card:hover {
+      background: #4a69bd;
+      color: white;
+      transform: translateY(-5px) scale(1.05);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    }
+
+    footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 0.9em;
+      opacity: 0.7;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <!-- 背景泡泡 -->
+  <div class="bubble" style="width:40px;height:40px;left:10%;animation-delay:0s;"></div>
+  <div class="bubble" style="width:25px;height:25px;left:30%;animation-delay:5s;"></div>
+  <div class="bubble" style="width:60px;height:60px;left:50%;animation-delay:2s;"></div>
+  <div class="bubble" style="width:20px;height:20px;left:70%;animation-delay:7s;"></div>
+  <div class="bubble" style="width:50px;height:50px;left:85%;animation-delay:3s;"></div>
+
+  <h1>📖 Vocabulary Practice Portal</h1>
+
+  <div class="level-links">
+    <a href="level_three/" class="level-card">Level 3<small>Fundamental</small></a>
+    <a href="level_four/" class="level-card">Level 4<small>Advanced</small></a>
+    <a href="level_five/" class="level-card">Level 5<small>Expert</small></a>
+    <a href="level_six/" class="level-card">Level 6<small>Master</small></a>
+  </div>
+
+  <footer>Created by Jerry @ NYCU</footer>
+</body>
+</html>

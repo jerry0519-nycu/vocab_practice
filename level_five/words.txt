@@ -1,0 +1,1003 @@
+word	meaning
+abnormal	a.不正常的，反常的；不規則的
+abolish	v.廢止,革除,取消
+abortion	n.流產,墮胎,失敗,夭折
+abrupt	(a.)突然的,唐突的,陡峭的,不連貫的,無禮的
+absurd	(a.)荒謬的,不合理的,可笑的
+abundant	(a.)大量的,豐富的,充裕的
+abuse	n./v.濫用；虐待
+accelerate	(vt.)加速,加快,促進(vi.)速度增加
+accessible	adj.易接近的, 可到達的, 易受影響的, 可理解的
+accommodate	(vt.) 為...提供住所,容納
+accommodation	n.住宿
+accord	n. 協議；條約；一致；符合 v. 給予（特殊待遇）；授予
+accounting	(n.)會計;會計學
+acknowledge(ment)	v. n.承認
+acquaint	(vt.)使認識,使瞭解
+acquisition	n.獲得；習得
+activist	n, 激進主義分子, 行動主義者
+acute	(a.)敏銳的,激烈的,尖銳的,嚴重的
+administration	(n.) 管理；行政（機關）
+administrative	adj. 行政的；管理的
+administrator	n.行政人員
+adolescent	adj./n.青春期的；青少年
+adore	(v.)崇拜,崇敬,敬慕,仰慕
+adverse	(a.)不利的,敵對的,相反的,逆的
+advocate	n. 主張人；擁護人；支持者；提倡者 v.主張；擁護；支持；提倡
+affection	n.感情；愛情；影響
+agenda	n. 議程；討論主題
+aggression	n.侵略
+agony	n. 極大的痛苦
+agricultural	adj. 農業的；務農的；農用的
+aisle	n.走道,通道,走廊
+alcoholic	adj. 含酒精的 n. 酗酒者，嗜酒者
+alien	(a.)外國的,外來的,異己的,不適的(n.)外星人
+allergic	(a.)過敏的,患過敏症的,極討厭的
+allergy	n.過敏性反應
+alliance	聯盟
+allocate	分配；分派
+ally	n.盟友,同盟國(vt.)聯盟,聯合,與...有關系(vi.)結盟
+alongside	prep./adv.在...旁邊,在...一起
+alter	(vt.)改變,更改,修改
+alternate	(a.)交互的,輪流的(vt.)(vi.)輪流,(使)交替 n. 替代者
+amend	(vt.)修正,改善,改良(vi.)改過自新
+ample	(a.)充足的,豐富的
+analyst	n. 分析師
+anonymous	adj.不具名的
+anticipate	(v.期待,預期 = expect = hope for)
+antique	n. 古董,古物(a.)舊式的,過時的
+applause	n. 鼓掌,喝彩,贊許
+appliance	n.家用電器
+apt	adj. 適合的、易於...的、有...傾向的
+architect	n. 建築師; 設計師; 締造者,創造者
+architecture	n. 建築學,建築術;建築物;組織,結構
+arena	n.活動場所,競技場所
+arouse	(vt.)喚醒,鼓勵,引起
+array	n.隊列,陣容,排列;一批,大量;衣服,盛裝
+arrogant	(a.)傲慢的,自大的
+articulate	a. 清楚表達的、口齒伶俐的 v. 清楚地說
+ass	n.驢；蠢人
+assault	n. 攻擊,突襲(vt.)襲擊,突襲(vi.)動武
+assert	(vt.)主張,硬說,斷言,堅持
+assess(ment)	v. n. 估價，估計，評定，核定
+asset	n. 資產
+assumption	n.假設,推論
+astonish(ment)	v. 使驚訝 n.驚訝
+athletics	n.運動，體育
+attendance	n.出席人數；出席
+attic	n.閣樓
+attorney	n.律師、法定代理人
+attribute	v.歸因於 n.特質
+auction	n./v.拍賣,競標
+authorize	v. 授權，批准
+autonomy	n. 自治，自治權
+awe	n. 敬畏(vt.)使敬畏
+backyard	n.後院
+ballot	(n.) 無記名投票;無記名投票用紙(v.) 投票
+ban	n.禁令(vt.)禁止,取締
+banner	n. 旗幟, 橫幅, 標語
+barren	(a.)不育的,貧瘠的
+batch	n. 一批;一群;一爐;一團
+behalf	n. 代表 on behalf of
+belongings	n.所有物品、隨身財物
+beloved	(a.) 摯愛的 (n.) 所愛的人
+beneficial	(a.)有益的,有幫助的
+betray	v.背叛
+beware	(vi.)注意,當心,謹防
+bias	n.偏見,斜線(vt.)使有偏見
+bid	v.出價競標 n.出價競標的金額
+biological	(a.)生物的,生物學上的
+bizarre	(adj.) 古怪的，不尋常的
+blast	n. 陣,一陣風,爆炸 (vt.)炸,使枯萎(vi.)猛攻,公開批評,枯萎
+blur	v.使模糊不清 n.模糊不清的事物
+blush	n. 臉紅，羞愧 v. 臉紅，羞愧、慚愧
+bodyguard	n. 保鑣；護衛者
+bolt	n. 門閂,螺釘,篩子,閃電,意外事件(vt.)閂住,發射,脫口而出,篩
+bonus	n.獎金；紅利；額外的好處
+boom	n.繁榮,隆隆聲(vi.)急速發展,發隆隆聲(vt.)使興旺,發隆隆聲
+boost	v.改善，促進 n.改善 促進
+booth	n.攤位,棚子
+boredom	n. 厭煩,厭倦,令人厭煩的事物
+bound	v.跳躍 n.界線
+boundary	n. 邊界,界限,範圍
+boxer	n. 拳擊手
+breakthrough	n. 突破,突破性進展
+briefcase	n.公事包
+bronze	n.青銅,銅像 (a.)青銅色的
+browse	v.n.瀏覽, 吃草, 放牧
+bruise	n.瘀傷, 擦傷 v.打傷, 撞傷
+bulk	n.大小,體積,大批,大多數
+bully	n. 欺淩弱小者,土霸(vt.)威脅,恐嚇,欺負(vi.)欺負
+bureau	n. (政府機構的)局、處
+bureaucracy	n.官僚政治；（總稱）官僚；繁文褥節；形式主義
+burial	n.埋葬,埋藏,掩埋
+butcher	n.屠夫,肉商,小販(vt.)屠宰,屠殺
+calcium	n.鈣
+canal	n.運河
+canvas	n.帆布,風帆;油畫布,油畫(v.)兜攬,遊說
+capability	n.能力,性能,容量
+carbon	n.碳;複寫紙;抄本
+carnival	n.嘉年華會,狂歡節,飲宴狂歡
+casino	n.賭場
+cathedral	n.大教堂，主教教堂
+caution	n.小心,慎重,警示(vt.)警告
+cautious	(a.)謹慎的,小心的
+celebrity	n.名人；名流；名聲
+cemetery	n.墓地,公墓
+ceremony	n.典禮；儀式
+certainty	n.確定性[U]，確定的事[C]
+certificate	n.証書,証明書(vt.)發給証明書,認可,鑒定
+chaos	n.混亂；無秩序；混沌
+chapel	n. 禮拜堂；小教堂
+characterize	(vt.)表示...的特性,使具有...特點
+chef	n.主廚；大廚
+choir	n.唱詩班、合唱團、唱詩班席位
+chord	n. 和弦, 和音
+chore	n.(家庭)雜務,日常瑣事
+chronic	(adj)慢性的、長期的 (chronic disease 慢性疾病）
+chubby	(adj.) 圓胖的、豐滿的
+chunk	n.大塊,矮胖的人或物
+circuit	n.環行,巡迴,周線;電路,線路
+cite	vt. 引用
+citizenship	n.公民身分(權利)
+civic	adj. 城市的；市民的
+clarity	(n)清楚；明晰
+clause	n.條款;子句
+cling	vi.粘緊, 附著, 緊貼, 堅持(意見), 墨守(習慣) (cling to)
+clinical	(a.)臨床的,病房用的
+cluster	n.簇串,叢,群(vi.)成串,叢生(vt.)使聚集
+cocaine	n.古柯鹼
+coffin	n.棺材
+cognitive	(adj)認知的、感知的
+coherent	(adj)一致的、協調的
+coincidence	n.巧合,同時發生,一致
+collaboration	n.合作
+collective	adj.集體的；共同的 n.企業集團；集體企業
+collector	n.收集者,收藏家
+colonial	adj.殖民的,殖民地的n.殖民地居民
+columnist	n. 專欄作家
+combat	v.打戰 n.戰鬥,爭鬥
+comedian	n.喜劇演員
+commentary	n.注釋,評論,批評
+commentator	n.評論家
+commission	n.委任狀,傭金,犯法,委託,代辦(vt.)委任
+commitment	n.承諾,保證
+commodity	n.日用品；商品
+communism	n. 共產主義
+communist	(n.) 共產主義者 (adj.) 共產主義的
+commute	v. 通勤
+commuter	n.通勤者、經常往返者
+compact	adj.緊密的, 結實的 n. 合約 v. 壓縮
+comparable	(a.)可以相比的,比得上的,可匹敵的
+compassion	n.同情,憐憫=pity=sympathy
+compassionate	adj. 有同情心的；表示憐憫的
+compatible	adj. 和諧共處的、相容的
+compel	(vt.)推動,強迫,脅迫,迫使
+compensate	v.補償；賠償；付報酬
+compensation	n.補償(金),賠償(金)
+competence	n. 勝任,資格,能力
+competent	(a.)能幹的,勝任的,有權能的,足夠的
+complexity	n.複雜性；複雜之處
+compliance	n. 順從,依從,服從,按照,一致
+complication	n.複雜化、併發症
+compliment	n.稱贊,恭維,致意(vt.)稱贊,褒揚,恭維
+comply	(v.)同意,服從,遵守,履行
+component	n. 組件,組成部分(a.)組成的,合成的
+compound	n.混合物,複合字,院子,複方(a.)復合的,混合的,合成的(vi.)混合,調合
+comprehend	(vt.)理解,包括
+comprehension	n.理解,領悟
+comprise	(vt.)包括,包含,組成,構成
+compromise	(v) 妥協 (n) 妥協；互相讓步
+compulsory	(a.)強迫的,強制性的,義務的
+conceal	v. 隱藏、隱匿
+concede	(v)承認、讓步
+conceive	(vt.)構思,以為(vi.)懷孕
+conception	n. 觀念；概念；懷孕
+condemn	v. 譴責；宣判
+conduct	(n.) 行為，品行，舉動，指導，引導(v.) 引導，帶領，指揮，管理
+confession	n.供認, 承認, 招供
+confidential	adj.機密的,秘密的
+confine	v.侷限,限制
+conform	v.使一致，遵守，符合
+confront	(vt.)使面對,對抗,遭遇,使對質,比較
+confrontation	n.對質；對抗
+consecutive	(a.)連續的,聯貫的,始終一貫的
+consensus	n. (意見等) 一致，一致同意，共識
+consent	n./v.同意
+conservation	(n.)保護，保存，保育
+considerate	(a.)考慮周到的，體諒的
+constitutional	(a.)組織的,立憲的,體質的
+constraint	n.限制
+consultation	諮詢；商量；商議；會議
+consumption	n. 消費；消耗；用盡；消耗量
+contagious	(a.)傳染性的,會蔓延的,會傳播的
+contaminate	(vt.)弄汙,弄臟,染汙,傳染,毒害
+contemplate	(v)沉思、凝視
+contemporary	n.同時代的人(a.)同時代的,同時,屬於同一時期的
+contempt	n.輕視, 輕蔑
+contend	v.斗爭, 競爭, 主張
+continental	adj. 大陸的，洲的
+contractor	n. 立契約的人；承包商
+contradiction	n.矛盾,不一致;否認,反駁
+controversial	adj. 有爭議的，引起爭議的
+controversy	n.爭議；(公開的)爭論
+conversion	n.轉換、轉變；宗教信仰的改變
+convert	v.轉變
+convict	n.囚犯,罪犯(vt.)宣告有罪,使知罪
+conviction	n.定罪,判罪
+coordinate	n.同等的人物,坐標(a.)同等的,等位的(vt.)(vi.)(使)協調
+copyright	n.版權；著作權 v.取得版權
+core	n.果核, 中心, 核心
+corporate	adj.公司的/法人的
+corporation	n.公司,企業社團,團體
+correlation	n. 相互關系,相關,關連
+correspondent	n.通訊記者,通信者
+corridor	n.走廊,通道
+corrupt	(a.)腐敗的,貪汙的,敗德的(vt.)使腐爛,腐蝕,使惡化(vi.)腐爛,墮落
+corruption	n.腐敗,墮落,貪汙
+counsel	n. 商議,忠告,法律顧問(vi.)(vt.)商議,勸告
+counselor	n.顧問；法律顧問；諮商師
+courteous	adj.有禮貌的, 謙恭的
+coverage	n.覆蓋的範圍,保險總額,新聞報導
+credibility	n.可信性
+creek	n.小溪,小河,小灣
+cripple	n.跛者,殘廢(vt.)使跛,使成殘廢,削弱
+criterion/criteria	n.準則 (複數：criteria )
+crucial	(a.)決定性的,重要的,嚴厲的
+crude	adj.天然的, 未加工的, 粗糙的, 拙劣的, 粗魯的
+cruise	n.巡航,巡弋,漫遊(vi.)(vt.)巡航,巡弋,漫遊
+crystal	n.水晶,水晶裝飾品,結晶(a.)水晶的,水晶一樣的,透明的
+cuisine	n.烹飪；烹調法；菜餚
+currency	n.貨幣,貨幣型通貨,流通,通用
+curriculum	n.課程 (複數：curricula)
+custody	n.保管,監護,監禁,拘留
+customs	n.海關；關稅
+deadly	(a.)致命的,致死的(ad.)非常地,如死一般地
+debris	n.碎片,殘骸
+debut	n.初次登台
+decay	n./v.腐爛;蛀牙
+deceive	(v.)欺騙,哄騙,行騙
+decent	(a.)有分寸的,得體的,大方的
+declaration	n. 宣佈，宣告，聲明申報 (單)
+decline	n.衰微,跌落,下降(vt.)使降低,婉謝(vi.)下降,衰落,偏斜
+dedicate	(vt.)奉獻,獻身於,致力於,題獻給
+defendant	n.被告者
+deficit	n.赤字，不足額
+defy	v.違抗，對抗
+delegate	n.代表,委員(v.)委派,委託,授權
+delegation	n. 代表團
+deliberate	(a.)深思熟慮的,故意的,從容的(vi.)(vt.)仔細考慮
+democrat	n.民主主義者；民主黨員
+denial	n.否認，拒絕
+density	(n.)密集(度)；稠密(度)
+depict	(vt.)描繪,描寫,描述,刻畫
+deploy	v.部署，配置
+depress	(vt.)使沮喪,使消沈;壓下,壓低;使蕭條,使衰落
+deputy	n.副手；代理人
+derive	v. 起源於
+descend	v.降落，傳下，系出
+descriptive	(a.)描述的,描寫的,說明的
+despair	n.絕望 v.絕望,喪失信心+over/of
+destination	n.目的地；終點
+destiny	n.命運
+destructive	(a.)毀滅性的,破壞的,有害的
+devotion	n.奉獻,獻身,忠誠,專心;祈禱
+diagnose	v.診斷 (diagnose sb. with/as (having) sth.)
+diagnosis	(n.)診斷;診斷書;調查分析
+dialect	n.方言,土語,地方話
+diameter	n.直徑
+diaper	n.尿布
+digestion	n. 消化
+dilemma	n.困境,進退兩難的局面
+dimension	n.空間，尺寸，大小
+diminish	(vt.)(vi.)(使)減少，使變小
+diplomatic	adj. 外交的；圓滑的；有外交手腕的
+directory	n.目錄，工商名錄，指南
+disapprove	(v.)不贊成,不同意,不許可,非難
+disclose	(vt.)揭露,透露
+disconnect	(v.)斷開(vt.)分離,不相連,拆開
+discourse	n.演講，論述，話語
+discriminate	v.歧視, 區別, 區別待遇
+discrimination	n. 歧視
+disrupt	(v.) 使分裂，使瓦解
+dissolve	(vt.)使溶解,使融化(vi.)溶解,融化
+distinction	n.區別, 差別, 級別, 特性, 聲望, 顯赫
+distinctive	(a.)區別性的,鑒別性的,有特色的
+distract	v.使分心，分散(注意力)
+doctrine	n.(宗教的)教義;教條
+document	(v) 紀錄 (n) 文件
+documentary	(a.)公文的,文件的;紀錄的,記實的 n.記錄影片,記實小說
+domain	n. 領土；領域
+dome	n. 圓頂(vt.)加圓頂(vi.)成圓頂狀
+donate	(vt.)(vi.)捐贈
+donation	n.捐款
+donor	n. 捐贈者;贈與人
+doorway	(n.)出入口;門口
+dough	n.麵團 n.錢(俚語)
+dreadful	(adj.) 糟透的，討厭的，可怕的
+driveway	n. 私人車道
+drought	n. 乾旱；旱災
+ecological	adj. 生態的；生態學的
+ecology	(n.)生態學;生態
+ecosystem	n. 生態系統
+ego	n.自我, 利已主義, 自負
+elaborate	(a.)精細的,詳盡的,精心的(vt.)詳細地說明,用心地製作
+eligible	adj.符合條件的, 合格的
+eloquent	(a.)雄辯的,有口才的,動人的
+embrace	v.擁抱；欣然接受 n.擁抱
+emission	n.排放；排放物
+endorse(ment)	v.支援,認可,背書 (名詞：endorsement)
+enterprise	n.企業；公司
+enthusiastic	(a.)熱情的,熱心的,熱烈的
+entitle	v. 使有資格，使有權利
+entity	n.實體, 存在, 本質
+entrepreneur	n.企業家,主辦人
+envious	(a.)羨慕的,嫉妒的
+envision	(vt.)想象,預想
+epidemic	n.傳染病,流行病(a.)流行的,傳染性的
+episode	(n.) 插曲,片段,一集
+equation	n.方程式;等式;相等
+equity	n.公平, 公正, 公平的事物, 資產淨值, [律]平衡法
+equivalent	n.同等物,等價物,相等物(a.)相等的,相當的,同意義的
+erect	(a.)直立的,豎立的,筆直的(vt.)使豎立,使直立,樹立,建立
+errand	n.差使,差事,跑腿,當差
+erupt	(vi.)爆發(vt.)噴出
+escalator	n.手扶梯
+essence	n.本質,實質,精華,精髓
+estate	n.不動產,財產
+eternal	(a.)永恆的,無窮的,不朽的
+ethic(s)	(n. pl.) 道德規範
+ethical	(adj.) 倫理的；道德的
+evolution	(n. [U]) 演化，演變
+evolve	(vi.)進展,進化,展開(vt.)使發展,推論,使進化
+exaggeration	n.誇張，誇張的說法（表現）
+exceed	v.超過,超出(數額、程度)
+exceptional	(a.)例外的,異常的,特別的
+excessive	(a.)過度的,格外的,極端的
+exclaim	(vt.)呼喊,驚叫,大聲說(vi.)呼喊,驚叫
+exclude	(vt.) 把...排除在外
+exclusive	adj.獨有的,獨佔的,獨家的
+execute	(vt.)執行,實行,完成,處死,製成(v.)執行
+execution	n. 執行、實施；執行死刑
+executive	(a.)執行的,行政的 n.行政人員,行政部門;總經理,董事
+exile	n.放逐,流放,被放逐者(vt.)放逐,流放,使背井離鄉
+exotic	(a.)異國的,外來的 n.外來物,舶來品
+expedition	n.考察,探險;考察隊,探險隊
+expertise	n. 專業知識，專門技能
+explicit	adj. 詳盡的;清楚的
+exploit	(vt.)剝削,開發,利用 n.功勞,功績,功勛
+exploration	n.探險,踏勘,探測,探索
+extension	(n.) 延伸、擴大、分機號碼
+extensive	adj. 廣闊的，廣泛的；大量的，大規模的
+exterior	n.外部,表面,外型(a.)外部的,外在的,表面的
+external	n.外部,外面(a.)外部的,客觀的,表面的
+extinct	(a.)熄滅的,滅絕的,耗盡的,絕種的
+extraordinary	(a.)非常的,特別的,非凡的
+fabric	n.織物,布,建築物,結構,構造
+fabulous	adj.極好的,相當好的
+facilitate	(vt.)幫助,使容易,促進
+faculty	n.才能,本領;學院,系;全體教學人員
+fascinate	(vt.)令人入神,使著迷(vi.)入迷
+fatigue	n.疲勞(vt.)使疲勞,使衰弱(vi.)疲勞
+federal	(a.)聯邦的,聯合的,同盟的
+fiber	n.纖維(物質)；性格；質地
+filter	(vt.)過濾,滲透,走漏(vi.)濾過,滲入 n.過濾器
+fiscal	(a.)財政的,會計的,國庫的
+fleet	n.艦隊(尤指有固定活動地區的艦隊)
+flexibility	n.彈性、靈活性
+flip	v. n.翻轉
+fluency	n.流暢,雄辯,善辯
+fluid	a.流體的,流動的,易變的 n.液體
+forge	(vi.)鍛造,偽造
+format	n.格式(v.)格式化
+forum	n.論壇
+foster	v.促進，培養，收養 adj. 收養的
+foul	v. n.犯規，不合法 adj.髒話連篇的，粗魯的，下流的，極其令人不快的
+fraction	n.碎片,少量,一小部分
+fragment	n. 碎片；分裂
+framework	n.結構,骨架,組織,機構
+franchise	n.特許經營權
+fraud	n.詐騙(罪),詐欺,騙子
+freight	n.船貨,運費,貨運(vt.)裝貨,使充滿,運送
+frontier n.	n.邊境，邊界
+galaxy n.	n.星系,銀河系;一群出色的人物
+gasp	n. 喘氣(vi.)喘氣,喘息,渴望(vt.)氣喘吁吁地說
+gathering	n. 聚會
+generate v.	(vt.)發生,產生;生殖,生育;引起,導致
+generator n.	n.發電機
+genetic	(a.)遺傳的,遺傳學的
+genetics	n.遺傳學
+genre	n.類型，流派，風格
+glare	n. 閃耀光,刺眼(vi.)發眩光,瞪視(vt.)瞪眼表示
+gloomy	(a.)抑沈的,憂悶的,黑暗的,悲觀的
+gorgeous	(a.)華麗的,燦爛的
+grant	v.同意, 准予
+graphic	adj. 生動的；繪畫的；圖表的
+gravity	n.地心引力
+greed	n.貪婪
+grieve	(vt.)使悲傷(vi.)悲痛,傷心
+grill	n.烤架,鐵格子,烤肉(vt.)(vi.)燒,烤,嚴加盤問
+grim	(a.)冷酷的,殘忍的,可怕的,討厭的,堅強的
+grip	n.緊握,柄,手提包,掌握,支配,控制(vt.)抓緊,抱住,吸住,掌握,支配
+gross	n.總數,總量(a.)總共的,未打折扣的,重大的,粗野的(vt.)總共賺得
+guideline	n.指導方針；準則（常用複數)
+gut	n.消化道；腸道，腸；大肚子，肥大的腹部
+habitat	n.棲息地
+haul	v. n. 拖;拉;拖運
+hazard	n. 危險
+heir	[n]繼承人, 後嗣
+hence	adv. 所以、因此
+herb	n. 香草；藥草；草本植物
+heritage	n. 遺產
+highlight	(vt.)加亮,使顯著,以強光照射
+hockey	n. 曲棍球
+honorable	adj. 可尊敬的
+horizontal	n. 水平,水平線,水平面(a.)水平線的,水平的,橫的
+hormone	n.荷爾蒙；激素
+hostage	n.人質
+hostile	adj.有敵意的
+hostility	n.敵意
+housing	n.房屋,住宅
+howl	v. n. 長嚎
+hypothesis	n. 假設，假說
+icon	n.圖像，圖示
+ideology	n. 思想體系，思想意識，意識形態
+idiot	n.白癡,極蠢之人
+illusion	n.幻覺
+immense	adj. 極大的，巨大的
+immune	(a.)免疫的,免除的,不受影響的免疫者
+implement	n.工具,器具(vt.)實現,使生效,執行
+implication	n. 暗示
+impulse	n. 衝動
+incentive	n.動機(a.)激勵的
+incorporate	v. 合併，併入
+index	n.索引,指針,指數,指標(vt.)編入索引中,指出(vi.)做索引
+indifferent	adj. 漠不關心的；冷淡的
+indigenous	(a.)本土的,土著的,國產的
+indispensable	adj. 不可或缺的，必需的
+indulge	v.縱情、沉溺
+inevitable	(a.)不可避免的,無法回避的;照例必有的
+infect	(vt.)傳染,侵染;使受影響
+infinite	adj. 無限的
+infrastructure	n.基礎建設，公共建設
+inherent	(a.)固有的,與生俱來的
+inherit	v. 繼承
+initiate	n.入會,開始(a.)新加入的(vt.)開始,傳授
+initiative	(a.)起始的,創始的,主動的主動性,主動精神 n.主動,主導權
+inject	v.注射
+injection	n.注射
+inning	n. (棒球)局
+innovation	n.改革,創新
+innovative	adj. 創新的
+inquiry	n.詢問; 調查; 疑問
+insane	adj. (患)精神病的;瘋狂的;荒唐的
+insight	n.洞察力,見識
+installation	n.安裝;設備;就職(典禮)
+institute	n.學會,協會;講習會,講座(vt.)建立,設立;開始
+institution	n.機構; 制度; 建立
+intact	(adj)完整無缺的;原封不動的
+integrate	v.整合,使併合(+with/into)
+integration	n.整合；結合
+integrity	n.正直,廉正,完整
+intensify	(vt.)加強(vi.)強化
+intent	n.目的,意圖,意義,含義(a.)熱心的,專心致志的
+interference	n.干擾; 干涉; 阻礙
+interior	(adj.) 內部的 (n.) 內部
+interpretation	n. 解釋,闡明;翻譯
+interval	n.間隔;距離
+intervention	n. 介入，干涉，干預
+investigator	n. 調查者,審查者;偵查員
+irony	n.諷刺,反諷
+journalism	n.新聞業,報章雜誌業
+journalist	n.記者
+judicial	(a.)法庭的,公正的,審判上的,司法的
+jug	n.壺，水罐(裝冷水的量杯)
+jury	n. 陪審團/評判委員會
+justify	v.t 證明...是合理的，使合理化
+juvenile	(adj.) 青少年的 (n.) 青少年
+kidnap	v. 綁架；誘拐
+landlord	n.地主,房東,店主
+laser	n. 雷射；激光
+lawmaker	n. 立法者/立法委員
+lawsuit	n.訴訟,控訴
+layer	n.層
+league	n.聯盟 v.結盟
+legacy	n.遺產；遺留之物
+legendary	adj.傳奇的、著名的
+legislation	n.法律，法規
+legislative	adj.立法的;有立法權的
+legitimate	adj. 合法的、正當的
+lest	(conj.)以免
+liability	n.責任,債務,傾向
+likelihood	n. 可能,可能性
+likewise	adv. 同樣地
+loop	n.圓圈,環形
+lounge	n.休閑室,長沙發(vi.)閑混,懶洋洋地躺臥
+lump	n. 腫塊 (vi.)結塊
+mainstream	n.主流
+maintenance	n. 維修,保養
+mammal	n.哺乳動物
+mandate	n. 命令、指令
+manifest	(a.)顯然的,明白的(vi.)顯示,出現(vt.)表明,表現
+manipulate	v.操縱,操作
+mansion	n.豪宅
+marine	a. 海生的；海洋的 n. 陸戰隊，艦隊
+masculine	n. 陽性,男性( a.)男性的,有男子氣概的
+massage	(n.) (v.) 按摩、推拿
+massive	adj. 大規模的；巨大的
+masterpiece	n.傑作
+mattress	n.床墊
+meantime	n.此際,其時 adv.其間
+mechanism	n.機械,機構,機制
+medication	n.藥物治療,藥物處理,醫藥
+mentor n.	n.良師益友,私人教師
+merge	v.(商場)合併,併購
+metaphor	n.隱喻,暗喻
+metropolitan	adj.大都會的；大城市的 n.大城市人
+midst	n. 中間，中央 adv. 在...中
+migration	(n.)遷移，移動
+milestone	n.里程碑;轉捩點
+miniature	n.縮圖,小畫像(a.)小規模的,纖小的
+minimal	(a.)最小的,極微的,最小限度的
+minimize	(v.)最小化(vt.)將...減到最少
+mint	n.薄荷
+missionary	n.傳教士,負有任務者,工作人員(a.)傳教的,負有使命的
+moan	n.呻吟,悲嘆(vi.)呻吟,抱怨,訴冤(vt.)呻吟著說
+mock	n.嘲笑,戲弄,模仿(a.)假的,偽造的,模擬的(vt.)嘲弄,模仿,輕視
+mode	(n.)方式;型;模式
+modify	v.修改,修正
+molecule	n.分子;微小顆粒
+monopoly	n.壟斷、獨占
+morality	n.道德
+mortality	n.死亡數；死亡率
+mortgage	n.抵押貸款 v.抵押
+motive	n.動機
+mount	v. 增長；上升 n. 山
+mumble	n.喃喃而語,咕噥(vt.)(vi.)喃喃而語,咕噥
+municipal	(a.)市政的,自治區的,內政的
+muscular	(a.)強壯的,肌肉發達的,有力的
+mustard	n.芥末
+myth	n.神話,虛構的事,虛構的人
+naive	(a.)天真的,純真的,樸素的
+narrative	n.敘述,故事(a.)敘述的,敘事的,故事體的
+nasty	(a.)骯臟的,邋遢的,惡劣的,下流的
+negotiation	n.談判,磋商,交涉
+neutral	n.中立者,中立國,非彩色 (a.)中立的,中性的,無色的
+nominate	(vt.)提名,任命,命名
+nomination	n.提名，指派，任命
+nominee	n.被提名人
+nonprofit	adj. 非營利的
+norm	n.基準；規範；定額；分配之工作量
+noticeable	(a.)引人注目的,顯明的,值得注意的
+notify	(vt.)通知,通告,報告
+notion	n.概念，意念；看法
+nowhere	adv./pron. 無處;任何地方都不；毫無結果
+nutrient	(a.)營養的,滋養的 n.營養物,滋養物
+nutrition	n.營養（學）；營養（物質）
+obligation	n.(道德上、法律上的)義務，責任
+obscure	v. 使陰暗, 使含糊, 隱藏 adj. 微暗的, 含糊的, 難解的
+observer	n. 觀察者，觀察家
+odds	n.不平等,幾率,機會,勝算
+offering	n.提供,奉獻物,牲禮
+olive	n.橄欖,橄欖樹,橄欖色,橄欖枝(a.)黃綠色的,黃褐色的,橄欖色的
+operational	(a.)運轉的;操作上的
+opponent	n.對手;敵手,反對者
+opposition	n.反對
+opt	(vi.)選擇
+optimism	n.樂觀主義,樂觀,樂天
+optional	(a.)可選擇的,隨意的
+orchard	n.果園,果樹
+organism	n.生物,有機體,社會組織
+originality	n. 創意；獨創性
+outfit	n.用具,配備(vt.)配備
+outlet	n.出口,出路;輸出口,引出線
+output	n.產量;輸出,輸出量
+outsider	n. 門外漢;局外人;圈外人
+overall	adj./adv.整體來說
+overhead	n.經常開支,普通用費(a.)在頭上的,高架的(ad.)在頭頂上,在空中,在高處
+oversee	(vt.)向下看,瞭望,監督
+overtake	(vt.)趕上,突然來襲,壓倒,超過
+overturn	n.傾覆,破滅,革命(vt.)推翻,顛倒(vi.)翻倒
+overwhelm	(vt.)淹沒,受打擊,制服,壓倒
+parallel	n.平行,對比,相匹敵之物(a.)平行的,相似的(vt.)與...平行,與...相似,相比
+participant	n.參加者,參與者
+particle	(n)微粒;顆粒
+partly	adv.部分地
+passionate	(adj.) 熱情的 熱愛的
+pastry	n. 糕點；油酥點心
+patch	n.補丁,補片,補塊;小塊土地;碎片,碎屑(vt.)補,修補
+patent	n.專利權,執照,專利品(a.)專利的,顯著的,新奇的(vt.)取得...的專利權
+pathetic	(a.)悲哀的,可憐的,感傷的
+patrol	n.巡邏,巡邏員,偵察隊(vt.)(vi.)巡邏,巡視
+patron	n.贊助人,顧客,保護人
+peasant	n. 農民，農夫
+pedal	n.踏板(vi.)踩踏板
+pedestrian	n.行人 (a.)徒步的,呆板的,通俗的
+penetrate	(vt.)穿透,滲透,看穿(vi.)刺入,看穿,滲透
+pension	n.養老金, 退休金
+perceive	(vt.)察覺,感知;理解,領悟
+perception	n. 感知 (能力)，覺察 (力) 認識，觀念，看法
+performer	(n.) 表演者，執行者
+persist	(vi.)堅持,固執,持續
+personnel	n.員工，人員、人事部門
+perspective	n.透視,眼界,視野,希望(a.)遠景畫法的,透視的
+pessimism	n.悲觀
+petition	n.請願書，請願
+petty	adj. 輕微的，小的
+phase	n.時期,階段 v.逐步進行
+photographic	(adj.) 攝影的
+pickup	n.提取,搭便車
+pier	n.碼頭
+pillar	n. 柱子
+pipeline	n.導管;輸油管
+pirate	n.海盜,盜印者,侵犯專利權者(vt.)盜印,掠奪,翻印
+pitcher	n.大水壺/(棒球)投手
+placement	n. 放置; 佈置
+plea	n.懇求、請求、辯解、藉口
+plead	(vi.)辯護,懇求(vt.)為...辯護,托稱
+pledge	n.保証,誓言,抵押(vt.)保証,使發誓,抵押,典當
+plunge	v. 驟然落下, 暴跌
+plural	(adj.)複數的 (n.)複數
+poetic	(adj.) 詩的，詩歌的
+poke	n.刺,戳 v.戳,刺,捅,刺探
+porch	n.門廊,玄關
+portfolio	n.文件夾，卷宗夾；公事包
+practitioner	n.實踐者,練習者;開業醫生
+precaution	n.預防措施
+predator	n.食肉動物; 掠奪者
+preference	n.偏愛,優先,優先權,優先的選擇
+prejudice	n.偏見
+preliminary	n.初步行動,初步措施,初試(a.)初步的,開始的,預備的
+premature	(a.)早熟的,過早的,不按時的早產兒,早發
+premier	n.總理,首相(a.)第一的,首位的,最初的
+premise	n. 假定, 前提
+premium	n.保險費 adj.高級的,優質的
+prescribe	v.開處方,開藥方
+prescription	n.處方, 藥方, 對策
+presidency	n.總統任期
+presidential	adj.總統的；總裁的
+presumably	adv. 據推測，大概，可能
+presume	v.假設
+prevail	v.佔優勢,占上風/勝過,勝出
+prey	n.被捕食的動物
+prior	a.優先的; 在先的; 在... 之前的
+proclaim	v.宣告、宣布
+productivity	n.生產力
+profile	n.側面,輪廓,人物素描
+profound	(adj)深刻的、深奧的
+progressive	(adj.) 穩定發展的，逐步的
+prohibit	v.禁止,防止,阻止
+projection	n.預測，推測，預計
+prolong	(vt.)延長,拖延,拖長
+prone	(a.)傾斜的,有...傾向的,易於...的
+propaganda	n.宣傳、政治宣傳
+prophet	(n.) 先知、預言家
+proportion	n.比例，部分
+prosecution	n.實行,經營,起訴
+prospect	n.展望，預期發生的事
+province	n.省,州
+provision	n.規定;條款;糧食;預防;v.供以...食物
+provoke	vt.激怒, 挑撥, 煽動, 惹起, 驅使
+pulse	n.脈動;意向 v. 使跳動
+purchase	v. n. 購買/購買品
+pyramid	n. 金字塔；錐體
+qualify	v.使具有資格
+quest	n.尋求
+questionnaire	n.調查表,問卷,調查表
+quiver	n.顫抖 v.顫抖
+quota	n.(商品)配額,定額,限額
+racism	n.種族歧視
+rack	n.架子 v.折磨，使痛苦
+radiation	n.輻射；發光；發熱
+radical	n.激進分子 (a.)激進的
+ragged	(a.)衣衫襤褸的,參差的,不協調的,粗糙的,刺耳的
+raid	n.襲擊,突襲,搜捕(vt.)(vi.)奇襲,搜捕
+rail	n.欄杆
+rally	v.召集，集會 n.召集；集會
+ranch	n.大農場(vi.)(vt.)經營牧場
+random	adj. 隨機的；任意的
+ratio	n.比率；比例
+rational	adj.合理的.理性的
+rattle	v.煩擾；使慌亂；使緊張；發出嘎嘎聲
+realism	n.寫實主義,現實,實在論
+realm	n.領域
+rear	n.後面,背後,後方(a.)後面的,背面的,後方的
+reassure	(vt.)使...安心,再保証
+rebellion	n.謀反, 叛亂, 反抗, 不服從
+recession	n. 經濟蕭條;後退;凹處
+recipient	(a.)領受的,容易接受的 n. 收件人
+recite	v. 背誦
+recommend	v.推薦；建議
+recommendation	n.推薦；推薦信；建議
+recruit	n.新兵,新分子,新會員,補給品(vt.)招募
+refuge	n.避難；避難所；庇護 v.庇護；避難
+regardless	(a.)不留心的,不注意的;不管,不顧(ad.)無論如何,不管怎樣
+regime	n. 政體, 政權制度, 政權
+rehearsal	n.排演，練習
+reinforce	v. 加強；強化
+reminder	n.起提醒作用的東西
+removal	n.移除；消除
+render	v使得、使成為、付給
+rental	n.出租,租金
+repay	v. 償還；報答；回報
+republican	n.共和主義者
+resemblance	n.相似
+reservoir	n.蓄水池;水庫
+residence	n.住所,住宅
+resident	n.居民 (a.)居留的,定居的
+residential	(a.)住宅的,與居住有關的
+resort	(v) 求助；憑借 (n) 避暑(寒)地
+respondent	n.回覆者，回答者
+resume	(n) 履歷表 (v) 恢復；繼續
+retail	n.零售(a.)零售的(vt.)零售,轉述(vi.)零售
+revenue	n.收益;稅收
+reverse	n.相反 (a.)反面的,相反的,反向的,顛倒的(vt.)顛倒,逆轉
+rhetoric	n.修辭,修辭學,華麗虛飾的語言
+rib	n.肋骨,肋狀物
+ridge	n.山脊
+ridiculous	(a.)可笑的,荒謬的
+rifle	n.步槍(vt.)用步槍射擊,搶奪
+rigid	(a.)剛硬的,堅硬的;僵硬的,刻板的,嚴厲的
+rim	n.邊,輪緣,框(vt.)鑲邊,為...裝邊
+riot	n.暴動,喧鬧,奔放(vi.)參加暴動,縱情
+rip	n.裂痕,破綻 (vi.)拉開,劃開,猛沖(vt.)撕,扯,劈
+risky	(a.)危險的,有風險的
+ritual	n.儀式,典禮,宗教儀式(a.)儀式的,依儀式而行的
+rival	n.競爭者,對手(vt.)競爭,對抗(a.)競爭的,對抗的
+rod	n.棍子,棍棒,杆子,釣竿,教鞭,鞭子
+sacred	(adj)神聖的、莊嚴的
+saddle	n.馬鞍 vt.裝上馬鞍
+saint	n.聖人
+salmon	n. 鮭魚
+salon	n.美容院, 會客室, 沙龍
+sandal	n. 涼鞋
+scan	v.掃描；粗略地看 n.掃描
+scandal n.	n.醜聞；惡意誹謗
+scar	n.傷疤 v.使留下傷疤
+scenario	n.情節
+scent	n.香味，氣味
+scheme	n.方案,計劃,詭計,陰謀(vt.)(vi.)計劃,設計,圖謀,策劃
+scope	n. 範圍
+scramble	(v)爬行、攀爬
+scrap	n.碎片,殘餘物(vt.)扔棄,敲碎
+script	n.劇本，腳本
+sector	n 部門;領域
+segment	n.片段,部分,分節(vt.)(vi.)分割,分裂
+seminar	n.研討會，講座
+senator	n.參議員, (大學的)評議員, (古羅馬的)元老院議員
+sensation	n.轟動，感覺
+sensitivity	n.敏感,多愁善感,感受性
+sensor	n.感應器；感知器
+sentiment	n. 情緒；意見、觀點
+sentimental	(a.)感傷性的,感情脆弱的
+sequence	n.順序;一連串
+series	n.系列
+server	n.伺服器
+session	n. [C] （從事某項活動的）一段時間
+setting	n.環境；背景
+shareholder	n股東, 持股人
+shatter	vt.vi.破滅，使粉碎，打碎
+shed	vt.脱落；流出 n.棚屋
+sheer	adj.全然的；純粹的(=complete, pure)陡峭的(=steep)
+sheriff	n.警長，縣治安官
+shield	n.盾,防衛物(vt.)保護,遮蔽(vi.)起保護作用
+shiver	v.顫抖, 打碎, 碎裂 n.(無法控制的)顫抖, 碎片
+shortage	n.缺乏,不足
+shove	v.推擠；撞；亂塞；亂放 n.推；擠
+shrug	n.聳肩(vt.)(vi.)聳肩
+shuttle	n. 太空梭；接駁車 v. 接駁
+sibling	n. 兄弟或姊妹
+siege	n.圍攻
+skeleton	n.骨骼,瘦如柴的人,梗概,骨幹,脈絡
+skull	n.頭蓋骨,頭腦,腦殼
+slam	n.砰然聲,猛然,滿貫 (vi.)砰地關上,猛攻
+slap	n.摑,侮辱,拍擊聲(vt.)(vi.)拍擊,侮辱(ad.)正面地,直接地,突然地
+slavery	n.奴隸制度
+slot	n.投幣孔;時段;狹縫 v.放於狹槽中
+smash	n. 破碎，破碎聲(vt.) 使摧毀，使粉碎
+smog	n.煙霧(= smoke and fog)[U]
+snatch	n.搶奪,攫取,片段(vt.)奪取,攫取(vi.)想搶走,攫取
+sneak	n. 告密的學生 v. 偷溜；偷偷做...
+sniff	n.v. 嗅;聞;吸氣聲
+soak	n.浸,濕透(vt.)使上下濕透,浸,吸入,吸收,浸出(vi.)浸泡,滲透
+soar	vi.急升;飛漲;翱翔
+sob	v.n.嗚咽，啜泣，抽噎
+sober	(adj.) 嚴肅的，冷靜的
+soften	(vt.)(vi.)(使)變柔軟,(使)變柔和
+sole	n.腳掌,鞋底,底部(a.)唯一的,僅有的,單獨的,獨身的v.給(鞋等)裝底(或換底)
+solo	adj. adv. 獨自的（地），單獨的（地），單人的（地）n. 獨奏；獨唱
+sophisticated	(a.)老練的,老於世故的;復雜的,尖端的
+sophomore	n.大學二年級生
+souvenir	n.紀念品；紀念物；伴手禮
+sovereignty	n.主權,統治權,獨立國
+sow	v.播種; 散佈; 傳播
+spacious	adj.(空間)寬敞的
+sparkle	(n) 閃爍 /(v) 冒出火花 / 閃光
+specialist	n.專家
+specialize	v.專攻
+specialty	n.專長;特製品, 特產, 名產
+specify	v.具體指出,詳細說明
+specimen	n.樣品,標本,試料
+spectacular	adj.壯觀的.令人驚嘆的
+spectator	n. 觀眾
+spectrum	(n.) 光譜、範圍
+speculate	(vi.)深思,推測,投機
+sphere	n.球體;領域
+spicy	a. 辣的.有加香料的
+spine	n.脊椎骨
+sponge	n.海綿,海綿狀的東西(vt.)用海綿擦拭,吸收掉,抹掉(vi.)海綿般吸收
+sponsor	(v.)贊助(n.)贊助者
+sponsorship	n.贊助，資助
+spouse	n.配偶
+squad	n.小隊
+squash	n.壓碎的東西(vt.)壓扁,鎮壓,壓制(vi.)被壓扁,發濺潑聲
+squat	n.蹲,矮胖子(a.)蹲著的,矮胖胖的(vi.)蹲下,坐,蹲伏(vt.)使蹲下,霸佔
+stability	n.穩定性；穩固；安定
+stack	堆積堆疊,大量(vt.)堆積,堆滿
+stain	n.污染,汙點,著色劑(vt.)沾染,染汙,著色(vi.)變臟
+stake	v. 撐起；賭注 n. 樁；利害關係；賭金
+stall	v.使停止，使延遲 n.攤位
+stance	(n)立場、站姿
+startle	v使...吃驚、使驚愕、驚嚇
+statistical	adj.統計的,統計學的
+steer	v.引導,駕駛,航行,籌劃
+stereotype	n.陳腔濫調,老套(vt.)套用老套,使一成不變
+stew	v.燉, 燜, 受悶熱 ; n.燉肉(或菜), 悶熱, 擁擠
+stimulate	v. 刺激
+stimulus	(n)刺激、刺激物
+stink	n.臭味,臭氣,張揚(vi.)發臭味,名聲臭
+stock	n.庫存、股票 v.儲存
+storage	n.儲存,儲藏,儲備/儲藏室
+straighten	(vt.)弄直,使正確,整頓,清理,使改正
+straightforward	(a.)筆直的,率直的,直接的
+strain	n.扭傷 v. 使緊張;使承受壓力;拉傷;竭盡全力地使用...
+strand	繩索之一股,繩,串(vi.)擱淺(vt.)使擱淺,使落後,使陷於困境,弄斷
+strap	n.帶,皮帶(vt.)用皮帶捆紮
+strategic	(a.)戰略的,戰略上的
+striking	(a.)醒目的,驚人的,打擊的,罷工的
+structural	(adj.) 結構的，架構的
+stumble	n.絆倒,失策(vt.)使絆倒,使困惑(vi.)絆倒,失足,失策,犯錯,蹣跚,躊躇
+sturdy	(a.)強健的,健全的
+submit	(vt.)使服從,使受到,委託,提出,認為(vi.)屈服,服從
+subsequent	(a.)隨後的,後來的
+subsidy	n.補助金,津貼
+substantial	adj 重大的, 大量的, 實質的
+substitute	n.代替人 vt.用...代替
+subtle	adj.細微的；不易察覺的
+suburban	adj.郊區的
+successor	n.繼承人;接班人(= heir)
+suite	n. 套房
+superb	adj.出色的、最好的
+superstition	n.迷信
+supervise	(vt.)(vi.)監督,管理,指導
+supervision	n.監督，管理
+supervisor	n.監督者,管理人,指導者
+supposedly	adv.據推測
+supreme	(adj.) 最高的、至上的
+surplus	adj. 過剩的，多餘的
+surveillance	(n)監視，監督，管制
+suspend	(vt.)懸,吊,使懸浮,暫停,中止,推遲(vi.)暫停,中止,懸浮,宣佈破產
+sustain	vt. 維持(生命)；遭受(損害、損失)
+sustainable adj.	adj.永續的；可持續的
+swap	n.以貨易貨(vt.)(vi.)交換,替換,交易
+symbolic	adj.象徵性的,象徵的
+symptom	(n.) 症狀、徵兆
+syndrome	n.併發症
+tackle	v.處理
+tactic(s)	n.策略、戰術
+tangle	n.纏結,糾纏,困惑,糾紛,混亂(vt.)使纏結,使糾纏(vi.)纏結,被糾纏
+tempt	v.引誘；誘惑；吸引
+temptation	n.誘惑；誘惑物
+terminal	(a.)末端的,終點的 n.航廈
+terrify	v.使害怕
+testify	(vt.)(vi.)証明,作証,聲明,表明
+texture	v.使...形成紋理n.質地；組織
+theft	n.盜竊,盜竊罪,贓物
+theology	n.神學
+theoretical	(adj.) 理論的；假設的
+therapist	n.臨床醫學家,治療師
+therapy	n.療法
+thereby	(adv.)因此
+thesis	n.論文
+thigh	n.大腿,股
+threshold	n.門檻,入口,開端
+thrill	n.震顫,激動,刺激性,一陣激動(vi.)震顫,抖顫,激動(vt.)使激動,使顫動
+thriller	n.恐怖小說(或電影等)；驚悚片
+thrive	(vi.)繁榮,興旺,茁壯成長
+throne	n.王位;王座
+thrust	n.插,戳,刺,猛推,口頭攻擊,推力(vt.)插入,猛推,刺,戳,突然提出,強加
+tick	(vi.) 滴答作響劃勾 n.滴答聲
+tile	n.瓷磚,瓦片(vt.)鋪以瓦,鋪以瓷磚
+tin	(v.)把......裝罐 (n.)罐頭；錫
+toll	n.長途電話費；通行稅；傷亡；損失；破壞 (death toll 傷亡人數)
+torch	v.點燃 n.火把
+torment	(vt.) 折磨，使痛苦 (n.)折磨，痛苦
+tournament	n.比賽,競賽,錦標賽
+toxic	(a.)有毒的,中毒的
+trait	n.特徵, 特點, 特性
+traitor	n.叛徒;賣國賊;背叛者
+transaction	n.交易; 買賣; 辦理
+transformation	n.轉變
+transit	n.通過；改變；運輸 v.過境;運送;運輸
+transition	n.轉變,轉換,過渡時期,變調
+transmission	n.傳送,傳播;傳動;遺傳,傳染
+transparent	adj.透明的;清澈的;顯而易見的
+trauma	n.精神創傷,心理創傷/外傷
+treaty	n.條約,協議,協商,談判
+tribute	n.貢物,禮物,感謝辭
+trigger	n.觸發器,板機(vt.)觸發,發射,引起
+trim	n.整齊,裝飾,修剪(a.)整齊的(vt.)整理,修剪,裝飾
+triple	a.三倍的 v.使成為三倍 n.三倍
+trivial	(a.)瑣細的,日常的,輕微的,平常的
+trophy	(n.)戰利品;獎品;獎盃
+tuition	n.學費(不可數)
+tumor	n.腫瘤
+tuna	n.鮪魚
+ultimate	n.終極,根本,頂點,基本原理(a.)終極的,根本的,極限的,最遠的,最後的,最大的
+uncover v.	v.揭開...的蓋子;揭露;發現
+undergo	vt.經歷;接受(治療、訓練)
+undergraduate	n.大學生 a.大學部的
+underline	v.畫底線; 強調; n.底線
+undermine	(v)破壞（地基）；削弱（信心）
+undertake	v.承擔；從事；保證；答應
+undo	v.解開;脫去(衣服等);取消
+undoubtedly	(ad.)無疑,必定
+unemployment	n.失業;失業狀態
+unfold	v.展開;呈現
+unlock	(v.)解除鎖定,開啟,顯露,放開(vi.)開著,解開
+unprecedented	adj. 前所未有的，無前例的,空前的
+update	n.更新，最新消息 v.更新，使成為最新
+upgrade	n.升級、改良 v.使升級、改進
+utility	n.(電、煤氣、鐵路等)公共設施,公共事業/實用性
+utilize	v. 利用，使用
+vacuum	vt.吸塵 n.真空，吸塵器
+vague	(a.)含糊的,不清楚的,茫然的
+valid	(a.)有確實根據的,有效的,正當的,正確的
+variable	n.變量,變數,可變物(a.)易變的;可變的;變量的;變異的
+variation	n.變化; 變體; 差異
+vein	n.靜脈,葉脈,態度,紋理
+vendor	n.小販,賣主,自動售貨機
+venture	n.冒險,冒險行動;冒險事業(vt.)冒...的危險;敢於(vi.)冒險,敢於
+venue	n.會場；舉辦地點
+verbal	adj./n. 口頭的
+verdict	(n)判決、決定
+version	(n.)版本；說法；譯本
+versus	(prep.)(常略作v.或vs.)與...相對
+vertical	(a.)垂直的,豎的垂線(n.)垂直線
+veteran	n.老手,退伍軍人,老兵,老樹(a.)老兵的,老練的,經驗豐富的
+via	prep.經由
+viable	adj.可行的、能活下去的
+vicious	(a.)邪惡的,墮落的,品性不端的,惡毒的,惡性的,有錯誤的
+viewer	n.觀眾
+viewpoint	n.觀點,看法,見解;視角
+vinegar	n.醋,尖酸味(vt.)加醋於,使酸溜溜
+virtual	n.虛擬(a.)虛的,實質的,有效的,事實上的,幾乎的
+visa	n.簽證
+vocal	adj./n. (關於)聲音的
+volcano	n. [C] 火山
+vomit	n.嘔吐, 嘔吐物, 催吐劑 ; vi.嘔吐, 大量噴出 ; vt.吐出, 嘔吐
+voucher	n.折價券,現金卷,票券
+vow	n.誓約,誓言,許願(vi.)起誓,發誓,承認(vt.)立誓,起誓要,公開宣佈
+vulnerable	adj.易受攻擊的, 易受...的攻擊
+warehouse	n.倉庫,貨棧,大商店(vt.)儲入倉庫
+warrior	n.戰士(=fighter)
+wary	(a.)小心的,當心的,留心的,謹慎的
+weird	(a.)怪異的,超自然的,不可思議的
+whatsoever	adv.不管什麼(語氣比whatever強)
+wheelchair	n.輪椅
+whereabouts	n.行蹤,下落,所在 adv.在哪裡
+whereas	conj. 然而
+whine	v.n. 抱怨；發牢騷
+widespread	(a.)廣布的,普及的,流傳寬廣的
+wig	n.假髮
+wilderness	n.荒野
+wildlife	n.野生生物
+windshield	n.(汽車)擋風玻璃
+wither	(vt.)使凋謝,使消亡,使畏縮(vi.)枯萎,衰退
+witty	(a.)富於機智的,詼諧的
+workshop	(n.) 工作坊；研討會
+worship	(v/n) 崇拜，敬仰
+worthwhile	(a.)值得花時間的,值得做的,相宜的
+worthy	(a.)有價值的,可敬的,值得的,相稱的
+yacht	n.遊艇(vi.)駕遊艇,乘遊艇
+yield	n.生產量,投資收益(vt.)生產,給予,同意,被迫放棄,放縱(vi.)出產,屈服,投降
